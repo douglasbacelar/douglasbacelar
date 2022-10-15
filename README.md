@@ -21,3 +21,5 @@
 ## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-bacelar-82b722149)
+
+![Snake animation](https://github.com/douglasbacelar/douglasbacelar/blob/output/github-contribution-grid-snake.svg)
