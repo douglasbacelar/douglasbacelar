@@ -22,7 +22,7 @@
   <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"height="40" width="40"/>
   <img align="center" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"height="40" width="40"/>
   <img align="center" alt="vs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"height="40" width="40"/>
-    <img align="center" alt="java" src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"height="40" width="40"/>
+  <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"height="40" width="40"/>
    <img align="center" alt="mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"height="40" width="40"/>
 </div><br/>
 
