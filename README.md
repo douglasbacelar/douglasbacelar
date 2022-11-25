@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Douglas Bacelar 🖐️ 
 
-I’m currently working on multiple projects together with Trybe course
+🔭 I’m currently working on multiple projects together with Trybe course
 ---
 [![](https://visitcount.itsvg.in/api?id=douglasbacelar&icon=5&color=3)](https://visitcount.itsvg.in)
 
