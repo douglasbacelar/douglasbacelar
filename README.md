@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Douglas Bacelar 🖐️ 
 
-telescope I’m currently working on Sportidia with React Native and Zustand + Apollo Client, It's cool.
+I’m currently working on multiple projects together with Trybe course
 ---
 [![](https://visitcount.itsvg.in/api?id=douglasbacelar&icon=5&color=3)](https://visitcount.itsvg.in)
 
