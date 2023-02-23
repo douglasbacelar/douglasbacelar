@@ -33,10 +33,10 @@ const douglasbacelar = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
