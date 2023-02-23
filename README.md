@@ -2,8 +2,6 @@
 
 <img align="right" height="160em" src="https://user-images.githubusercontent.com/115577043/220984487-15d5e866-b8eb-435c-afbe-d36acf5df161.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=49ABF7&center=true&vCenter=true&multiline=true&height=100&lines=Hi%2C+I'm+Douglas!+;I'm+Fullstack+Web+Developer;Be+Welcome!)](https://git.io/typing-svg)
-
 ```js
 const douglasbacelar = {
     personal: {
