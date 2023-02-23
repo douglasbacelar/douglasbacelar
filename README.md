@@ -3,7 +3,7 @@
 <img align="right" height="130em" src="https://user-images.githubusercontent.com/115577043/220984487-15d5e866-b8eb-435c-afbe-d36acf5df161.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=49ABF7&center=true&vCenter=true&multiline=true&width=550&height=100&lines=Hi%2C+I'm+Douglas!+;I'm+Fullstack+Web+Developer;Be+Welcome!)](https://git.io/typing-svg)
-
+<br>
 
 
 --------
@@ -36,7 +36,7 @@ const douglasbacelar = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbacelar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/douglasbacelar)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
 
