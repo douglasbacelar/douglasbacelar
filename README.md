@@ -31,10 +31,10 @@ const douglasbacelar = {
 --------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
+  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
 </a>
 
 
