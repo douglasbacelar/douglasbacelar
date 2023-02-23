@@ -36,9 +36,7 @@ const douglasbacelar = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="50%" align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbacelar)](https://github.com/anuraghazra/github-readme-stats)" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbacelar)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
 
