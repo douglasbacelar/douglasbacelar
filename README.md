@@ -1,6 +1,10 @@
 ###                                                         Hey! I'm Douglas Bacelar 🖐️ 
 
-##### 🔭 I’m currently working on multiple projects together with Trybe course
+##### 🔭 I’m currently working on multiple projects together with Trybe course"
+
+'''
+dsadahdahd 
+'''
 ---
 [![](https://visitcount.itsvg.in/api?id=douglasbacelar&icon=5&color=3)](https://visitcount.itsvg.in)
 
