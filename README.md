@@ -36,6 +36,15 @@ const douglasbacelar = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
 </a>
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbacelar&layout-compact&langs_count-16&theme-dracula"/>
+</a>
+
+
+
+
+--------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/douglasbacelar)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
