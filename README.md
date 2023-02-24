@@ -41,13 +41,19 @@ const douglasbacelar = {
 </a>
 
 --------
-[![](https://visitcount.itsvg.in/api?id=douglasbacelar&icon=0&color=1)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-bacelar-82b722149)
+<div align="center">
+<a href = "https://www.linkedin.com/in/douglas-bacelar-82b722149"><img src="https://visitcount.itsvg.in/api?id=douglasbacelar&icon=0&color=1" target="_blank"></a>
+<a href="https://www.linkedin.com/in/douglas-bacelar-82b722149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<div align="center">
+    
 ![Snake animation](https://github.com/douglasbacelar/douglasbacelar/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
 
 <img width="100%" src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer" style="max-width: 100%;">
