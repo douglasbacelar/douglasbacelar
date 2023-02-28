@@ -32,13 +32,15 @@ const douglasbacelar = {
 ```
 
 --------
-
+<div align="center">
+    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="45%" align="center" width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="45%" align="center" width="41%" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
+  <img align="center" height="45%" width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
 </a>
+</div>
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
