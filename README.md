@@ -41,7 +41,8 @@ const douglasbacelar = {
   <img align="center" height="45%" width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbacelar&theme=tokyonight&hide_border=false" />
 </a>
 </div>
-<div align="center">
+<br /><br />
+<div align="center" height="60%" width="60%">
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbacelar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
     
