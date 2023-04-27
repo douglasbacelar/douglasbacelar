@@ -31,14 +31,10 @@ const douglasbacelar = {
             },
             BackEnd: {
                 Languages: ['Python', 'Javascript', 'TypeScript', 'Express.js'],
-                tools: ['React', 'Redux']
-                Tests: ['Jest', 'RTL'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['TailwindCSS', 'Styled-Components', 'Bootstrap'],
+                Databases: ['MYSQL', 'MongoDB'],
+                Hosting: ['AWS'],
             },
             Others: {
-                Hosting: ['AWS'],
-                Databases: ['MYSQL', 'MongoDB']
                 Containers: ['Docker', 'Docker Compose'],
                 Linter: ['ESLint'],
                 Version-Control: ['Git'],
