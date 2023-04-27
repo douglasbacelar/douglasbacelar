@@ -31,7 +31,7 @@ const douglasbacelar = {
             },
             backEnd: {
                 Languages: ['Python', 'Javascript', 'TypeScript'],
-                Tools: ['Express.js' 'Node.js'],
+                Tools: ['Express.js', 'Node.js'],
                 Databases: ['MYSQL', 'MongoDB'],
                 Hosting: ['AWS'],
             },
