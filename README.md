@@ -22,9 +22,26 @@ const douglasbacelar = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Redux', 'Jest'],
+                Languages: ['Javascript'],
+                Tools: ['React', 'Redux'],
+                Tests: ['Jest', 'RTL'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['TailwindCSS', 'Styled-Components', 'Bootstrap'],
+                Environments: ['Next.JS', 'Vite', 'CRA'],
+            },
+            BackEnd: {
+                Languages: ['Python', 'Javascript', 'TypeScript', 'Express.js'],
+                tools: ['React', 'Redux']
+                Tests: ['Jest', 'RTL'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['TailwindCSS', 'Styled-Components', 'Bootstrap'],
+            },
+            Others: {
+                Hosting: ['AWS'],
+                Databases: ['MYSQL', 'MongoDB']
+                Containers: ['Docker', 'Docker Compose'],
+                Linter: ['ESLint'],
+                Version-Control: ['Git'],
             },
         },
     }
