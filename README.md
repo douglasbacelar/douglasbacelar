@@ -29,12 +29,12 @@ const douglasbacelar = {
                 CSS: ['TailwindCSS', 'Styled-Components', 'Bootstrap'],
                 Environments: ['Next.JS', 'Vite', 'CRA'],
             },
-            BackEnd: {
+            backEnd: {
                 Languages: ['Python', 'Javascript', 'TypeScript', 'Express.js'],
                 Databases: ['MYSQL', 'MongoDB'],
                 Hosting: ['AWS'],
             },
-            Others: {
+            others: {
                 Containers: ['Docker', 'Docker Compose'],
                 Linter: ['ESLint'],
                 Version-Control: ['Git'],
