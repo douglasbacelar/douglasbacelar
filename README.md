@@ -30,7 +30,7 @@ const douglasbacelar = {
                 Environments: ['Next.JS', 'Vite', 'CRA'],
             },
             backEnd: {
-                Languages: ['Python', 'Javascript', 'TypeScript'],
+                Languages: ['Javascript', 'TypeScript', 'Java'],
                 Tools: ['Express.js', 'Node.js'],
                 Databases: ['MYSQL', 'MongoDB'],
                 Hosting: ['AWS'],
